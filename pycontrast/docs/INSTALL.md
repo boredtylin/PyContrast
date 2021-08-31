@@ -1,5 +1,5 @@
 ### Prerequisites
-- Lnux
+- Linux
 - Python3
 - NVIDIA GPUs + CUDA CuDNN
 
